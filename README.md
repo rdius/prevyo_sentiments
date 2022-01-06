@@ -77,7 +77,8 @@ opi_value    Yves  détester  sentir   -1.0
 emo_value    Yves  sentir    anger
 emo_value    Yves  sentir  disgust
 emo_value    Yves  sentir  sadness
-========================================
+
+
 
 Processing : Alice s'est bien reveillé ce matin.
 
@@ -90,7 +91,8 @@ opi_value            bien   être    1.0
 
           emitter   trigger value
 emo_value   Alice  reveillé   joy
-========================================
+
+
 
 Processing : Emvista fait ressortir le potentiel des données textuelles.
 
@@ -103,4 +105,3 @@ opi_value          potentiel  donnée    1.0
 
           emitter    trigger     value
 emo_value          potentiel  surprise
-========================================
