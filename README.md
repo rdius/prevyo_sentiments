@@ -64,7 +64,7 @@ results = query_sentiments(input_texts,api_url,token,language)
 ---------------------------------------------------------------------------------------------------------------
 #### Sortie : 
 
-![alt text](out.png)
+![alt text](./py_out.png)
 
 
 
