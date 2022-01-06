@@ -64,6 +64,10 @@ results = query_sentiments(input_texts,api_url,token,language)
 ---------------------------------------------------------------------------------------------------------------
 #### Sortie : 
 
+![alt text](out.png)
+
+
+
 Processing : Yves déteste se sentir fatigué.
 
           *****Opinions*****
