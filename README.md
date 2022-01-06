@@ -1,6 +1,6 @@
 # prevyo_sentiments
 
-Cette exercice à pour but d'analyser des sentiments en utilisant le service Sentiments de Emvista, accessible à partir de l'API https://pss-api.prevyo.com/pss/api/v1/sentiments
+Cet exercice à pour but d'analyser des sentiments en utilisant le service Sentiments de Emvista, accessible à partir de l'API https://pss-api.prevyo.com/pss/api/v1/sentiments
 
 Initialement prévu pour être réalisé en Java, nous avons ajouter un cas d'étude en Python pour illustrer notre test.
 
