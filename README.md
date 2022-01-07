@@ -22,6 +22,15 @@ Rendu :
 
 ### Application Java
 
+Le code source est disponible dans le dossier Emvista
+
+--------------------------------------------------------------
+#### Prérequis : installer requests de Http et Pandas comme indiqué ci-dessous
+```java
+   * Ajouter les librairies externes dans le build Path du projet. Ces librairies sont disponibles dans Emvista/lib
+```
+
+
 ```java
 import java.io.IOException;
 import java.net.URI;
