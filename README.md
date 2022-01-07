@@ -20,7 +20,7 @@ Rendu :
  * Code source sur un repo Github.
 
 
-### Application Java
+## Application Java
 
 Le code source est disponible dans le dossier Emvista
 
@@ -182,7 +182,7 @@ public class Requete {
 
 
 ---------------------------------------------------------------------------------------------------------------
-### Application Python
+## Application Python
 
 Le code source est disponible dans le fichier Emvista.ipynb.
 
