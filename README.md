@@ -30,7 +30,8 @@ Le code source est disponible dans le dossier Emvista
    * Ajouter les librairies externes dans le build Path du projet. Ces librairies sont disponibles dans Emvista/lib
 ```
 
-
+#### Code source
+-------------------------------------------------------------------------------
 ```java
 import java.io.IOException;
 import java.net.URI;
@@ -175,6 +176,9 @@ public class Requete {
 
 ```
 
+#### Exemple de Sortie : 
+
+![alt text](./jav_out.png)
 
 
 ---------------------------------------------------------------------------------------------------------------
@@ -215,6 +219,6 @@ language = 'fr'
 results = query_sentiments(input_texts,api_url,token,language)
 ```
 ---------------------------------------------------------------------------------------------------------------
-#### Sortie : 
+#### Exemple de Sortie : 
 
 ![alt text](./py_out.png)
